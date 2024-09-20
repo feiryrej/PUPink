@@ -1,0 +1,43 @@
+{
+  "manifest_version": 3,
+  "name": "PUPink",
+  "version": "0.1.0",
+  "description": "Make your PUPSIS portal coquette!",
+  "permissions": ["tabs"],
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "js": ["content.js"],
+      "css": ["style.css"],
+      "matches": [
+        "https://sis1.pup.edu.ph/student/*",
+        "https://sis2.pup.edu.ph/student/*",
+        "https://sis3.pup.edu.ph/student/*",
+        "https://sis4.pup.edu.ph/student/*",
+        "https://sis5.pup.edu.ph/student/*",
+        "https://sis6.pup.edu.ph/student/*",
+        "https://sis7.pup.edu.ph/student/*",
+        "https://sis8.pup.edu.ph/student/*"
+      ]
+    }
+  ],
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "32": "icons/icon32.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["assets/pinky.jpg"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

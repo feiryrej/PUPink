@@ -1,0 +1,119 @@
+/* Made by Regina Bonifacio */
+/* PUPink Chrome Extension - Version 0.1.0 */
+
+/* Student Login */
+div.col-md-4.card.frost {
+  background-color: #ffe6f2 !important;
+}
+
+h1,
+h2,
+h3,
+h4 h6 {
+  color: #ff69b4 !important;
+}
+
+h5,
+h3.card-title,
+a.btn-link.mb-1.btnview,
+a.text-primary {
+  color: #d21078 !important;
+}
+
+b,
+label {
+  color: #ff1493 !important;
+}
+
+input.btn.btn-primary.btn-flat.btn-block {
+  background-color: #d8127b !important;
+  border: 2px #ff1493 !important;
+  color: #f5f5f5 !important;
+}
+
+/* Home */
+nav.main-header {
+  background-color: #ffe6f2 !important;
+  border: 0.1px solid #ff69b4 !important;
+  color: #000000 !important;
+}
+
+span.brand-text {
+  color: #ff1493 !important;
+}
+
+div.card-header {
+  background-color: #facae1 !important;
+  border: 0.1px solid #000000 !important;
+}
+
+div.card-body,
+div.card-footer {
+  background-color: #ffe6f2 !important;
+  border: 0.1px solid #000000 !important;
+}
+
+h3.card-title.text-danger.text-bold {
+  color: #000000 !important;
+}
+
+a.nav-link,
+a.text-bold {
+  color: #000000 !important;
+}
+
+div.info-box {
+  background-color: #ffb6c1 !important;
+  border: 1px solid #ff1493 !important;
+}
+
+span.info-box-icon.bg-danger {
+  background-color: #ff1493 !important;
+}
+
+th,
+td {
+  border: 0.1px solid #000000 !important;
+}
+
+footer {
+  background-color: #f5f5f5 !important;
+}
+
+/* Enrollment */
+div.alert.alert-info,
+div.alert.alert-success {
+  background-color: #f5e0e3 !important;
+  border: 1px solid #ff1493 !important;
+  color: #000000 !important;
+}
+
+div.alert.alert-warning {
+  background-color: #ffb6c1 !important;
+  border: 1px solid #ff1493 !important;
+}
+
+a.btn.btn-theme,
+input.btn.btn-success.btn-block.btnsave,
+input.btn.btn-theme.submit_validate_inputs,
+input.btn.btn-theme {
+  background-color: #d8127b !important;
+}
+
+label.form-check-label {
+  color: #000000 !important;
+}
+
+i.fa.fa-user,
+i.fas,
+span.fas {
+  color: #d21078 !important;
+}
+
+div.dropdown-menu.dropdown-menu-md.dropdown-menu-right.show {
+  background-color: #f5f5f5 !important;
+}
+
+i.fas.fa-file-download {
+  color: #f9c9d0 !important;
+}
