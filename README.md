@@ -59,6 +59,10 @@ Alternatively, you can follow these steps:
 
 Optional: Pin the extension for easy access. Enjoy!
 
+## Privacy Assurance
+
+Your privacy is my top priority. PUPink is designed solely as a theme extension, and no personal data will be collected or stored. We do not copy, steal, or share any information from your browsing activities. You can use this extension with confidence, knowing that your data remains safe and secure.
+
 ## License
 
 Distributed under the [MIT](https://choosealicense.com/licenses/mit/) License. See [LICENSE](LICENSE) for more information.
